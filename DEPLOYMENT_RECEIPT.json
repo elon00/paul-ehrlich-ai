@@ -1,0 +1,14 @@
+{
+  "project": "paul-ehrlich-ai",
+  "network": "Solana Devnet",
+  "cluster_url": "https://api.devnet.solana.com",
+  "mint_address": "2XGsPCcWS5bnjVvHNsXLBtqQtMMp66C2g38DmcMXjGLs",
+  "vault_account": "91RjdWzn4B8SsFCwyqFTKB2nxjZG6TwkaXsu8VLC2Dea",
+  "initial_supply": 1000000,
+  "decimals": 9,
+  "creation_tx": "32X9WzzdjmK6pUVxeE9WbxsXJ5q9y5priuZijB8HEiNXWgjz2KfSxbShsXyoCxLmJ83KzoKV3hhkDUTJG2qNYmNt",
+  "account_tx": "4DFcNq2pb3pwfTUpribN8D3BR3uxkEyiAth8Y4wkDL3QPtanuUWs5ErsCNP9gHXUUtxvk44WPkN13gfQxzXMn7G2",
+  "mint_tx": "xmsjeDV1Y5gaMYQ7SfEos2NshoVSutfRHmSwR28TF3fmdjiapE2Fb2AgMc6LYeJLVgXzocRU4jFaEK1mULFL8CU",
+  "solana_explorer_mint": "https://explorer.solana.com/address/2XGsPCcWS5bnjVvHNsXLBtqQtMMp66C2g38DmcMXjGLs?cluster=devnet",
+  "timestamp": "2026-10-26 16:53:50 UTC"
+}
